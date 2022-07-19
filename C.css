@@ -1,0 +1,16 @@
+.class{background:red}
+body{
+    background:black
+}  
+p{
+    color:gray;
+    /* Border: solid green;
+    padding-top: 200px;
+    background:red; */
+} 
+h1{
+    color:red;
+}
+h2{
+    color:green;
+}
