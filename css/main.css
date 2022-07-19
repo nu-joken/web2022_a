@@ -1,0 +1,31 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c');
+
+/*グローバルメニュー*/
+.global-nav{
+    font-size: 18px;
+    width: 940;
+    background-color:rgba(123, 227, 243, 0.267);
+}
+.nav-list{
+    margin: 0;
+    padding:0;
+    text-align: center;
+}
+.nav-item{
+    font-family: cursive;
+    display: inline-block;
+    padding: 20px 15px;
+    color: #766b70;
+}
+.nav-item a:link {
+    color: #3df7bc;
+    text-decoration: none;
+}
+.nav-item a:visited {
+    color: #3df7bc;
+}
+.nav-item:hover{
+    background-color: rgb(3, 159, 237);
+}

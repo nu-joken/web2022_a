@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+h1{
+    color:rgb(143, 214, 249);
+    font-family:cursive;
+}
+
+.list{
+    font-size: 150%;
+    font-family: 明朝体;
+}
